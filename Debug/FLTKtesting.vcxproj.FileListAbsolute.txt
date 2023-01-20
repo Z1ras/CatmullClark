@@ -1,0 +1,2 @@
+C:\Users\Maks\Downloads\Workspace_3D-master\Workspace_3D-master\Debug\FLTKtesting.exe
+C:\Users\Maks\source\repos\Workspace_3D-master\Debug\CatmullClark.exe

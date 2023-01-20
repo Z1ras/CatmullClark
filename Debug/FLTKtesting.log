@@ -1,0 +1,28 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (FLTKtesting.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(31,31): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(32,30): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(34,31): warning C4305: инициализация: усечение из "double" в "GLfloat"
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(136,14): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(137,14): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(138,14): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(353,3): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(402,3): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(410,3): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(412,3): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(453,16): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(453,41): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(456,33): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(457,33): warning C4244: =: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(537,31): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(537,28): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(537,25): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(655,19): warning C4305: +=: усечение из "double" в "GLfloat"
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(656,19): warning C4305: +=: усечение из "double" в "GLfloat"
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(657,19): warning C4305: +=: усечение из "double" в "GLfloat"
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(660,19): warning C4305: -=: усечение из "double" в "GLfloat"
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(661,19): warning C4305: -=: усечение из "double" в "GLfloat"
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(662,19): warning C4305: -=: усечение из "double" в "GLfloat"
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(705,17): warning C4244: +=: преобразование "double" в "GLfloat", возможна потеря данных
+C:\Users\Maks\source\repos\Workspace_3D-master\main.cpp(706,17): warning C4244: +=: преобразование "double" в "GLfloat", возможна потеря данных
+  FLTKtesting.vcxproj -> C:\Users\Maks\source\repos\Workspace_3D-master\Debug\CatmullClark.exe
